@@ -1,3 +1,8 @@
+## Application Screenshot
+
+![AI Chatbot](chatbot.png)
+
+
 # AI Chatbot Using Hugging Face
 
 An interactive AI chatbot built using **Qwen2.5-0.5B-Instruct**, Hugging Face Transformers, PyTorch and Streamlit.
